@@ -1,0 +1,21 @@
+image{
+    margin:auto;
+
+}
+canvas{
+    border: 1px black solid;
+}
+
+#NavMenu{
+    width: 100%;
+    min-height: 50px;
+    max-height: 100px;
+
+    background-color: darkgray;
+    margin-top: 0;
+    padding: 0;
+    
+}
+
+
+
